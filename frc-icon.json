@@ -1,0 +1,147 @@
+{
+  "iconDefinitions": {
+    "_file": {
+      "iconPath": "icons/file.png"
+    },
+    "_folder": {
+      "iconPath": "icons/folder.png"
+    },
+    "_folder-open": {
+      "iconPath": "icons/folder-open.png"
+    },
+    "_css": {
+      "iconPath": "icons/css.png"
+    },
+    "_html": {
+      "iconPath": "icons/html.png"
+    },
+    "_javascript": {
+      "iconPath": "icons/javascript.png"
+    },
+    "_java": {
+      "iconPath": "icons/java.png"
+    },
+    "_kotlin": {
+      "iconPath": "icons/kotlin.png"
+    },
+    "_git": {
+      "iconPath": "icons/frc.png"
+    },
+    "_wmlog": {
+      "iconPath": "icons/wmlog.png"
+    },
+    "_util": {
+      "iconPath": "icons/wmlog.png"
+    },
+    "_robotcontainer": {
+      "iconPath": "icons/box.png"
+    },
+    "_robot": {
+      "iconPath": "icons/box-locked.png"
+    },
+    "_constants": {
+      "iconPath": "icons/constants.png"
+    },
+    "_swerve": {
+      "iconPath": "icons/engine.png"
+    },
+    "_swerve-open": {
+      "iconPath": "icons/engine-open.png"
+    },
+    "_global": {
+      "iconPath": "icons/globe.png"
+    },
+    "_image": {
+      "iconPath": "icons/image.png"
+    },
+    "_readme": {
+      "iconPath": "icons/book.png"
+    },
+    "_pathplanner": {
+      "iconPath": "icons/pathplanner.png"
+    },
+    "_pathplanner-open": {
+      "iconPath": "icons/pathplanner-open.png"
+    },
+    "_path": {
+      "iconPath": "icons/path.png"
+    },
+    "_folder_locked": {
+      "iconPath": "icons/folder-locked.png"
+    },
+    "_folder_locked-open": {
+      "iconPath": "icons/folder-locked-open.png"
+    },
+    "_continuity": {
+      "iconPath": "icons/cont.png"
+    },
+    "_continuity-open": {
+      "iconPath": "icons/cont-open.png"
+    },
+    "_subsystem": {
+      "iconPath": "icons/frc.png"
+    },
+    "_main": {
+      "iconPath": "icons/box-x.png"
+    },
+    "_led": {
+      "iconPath": "icons/led.png"
+    },
+    "_led-open": {
+      "iconPath": "icons/led-open.png"
+    }
+  
+  },
+  "file": "_file",
+  "folder": "_folder",
+  "folderExpanded": "_folder-open",
+  "fileExtensions": {
+    "kt": "_kotlin",  
+    "java": "_java", 
+    "html": "_html",  
+    "css": "_css",    
+    "js": "_javascript", 
+    "git": "_git",
+    "png": "_image",
+    "jpg": "_image",   
+    "svg": "_image",   
+    "webp": "_image",
+    "ico": "_image",
+    "md": "_readme",
+    "path": "_path",
+    "wmlog": "_wmlog"
+  },
+  "fileNames": {
+    "Constants.kt": "_constants",
+    "Robotcontainer.kt": "_robotcontainer",
+    "Robot.kt": "_robot",
+    "Main.kt": "_main",
+    ".gitignore": "_readme",
+    ".gitattributes": "_readme"
+  },
+  "languageIds": {
+    "java": "_java",
+    "javascript": "_javascript",
+    "css": "_css",
+    "html": "_html",
+    "json": "_json",
+    "git": "_readme"
+  },
+  "folderNames":{
+    "swerve": "_swerve",
+    "pathplanner": "_pathplanner",
+    "deploy": "_folder_locked",
+    "continuity": "_continuity",
+    "led": "_led"
+  },
+  "folderNamesExpanded":{
+    "swerve": "_swerve-open",
+    "pathplanner": "_pathplanner-open",
+    "deploy": "_folder_locked-open",
+    "continuity": "_continuity-open",
+    "led": "_led-open"
+  },
+  "symbols.files.associations": {
+    "*.Subsystem.*": "_subsystem"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "frc-icon",
+  "displayName": "FRC - Team 2106 Icon Pack",
+  "description": "A themed icon pack for FRC WPILIB projects",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.65.0"
+  },
+  "publisher": "windingmotor",
+  "author": {
+    "name": "Winding Motor"
+  },
+  "icon": "/icons/logo.png",
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "icons",
+    "theme",
+    "icon",
+    "frc",
+    "robotics",
+    "wpilib",
+    "java"
+  ],
+  "license": "MIT",
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "frc-icon",
+        "label": "frc-icon",
+        "path": "frc-icon.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/angelenelm/Animal-Crossing-VSCode-Icon-Theme.git"
+  }
+}
