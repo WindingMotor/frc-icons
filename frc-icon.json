@@ -27,10 +27,10 @@
     "_git": {
       "iconPath": "icons/frc.png"
     },
-    "_wmlog": {
-      "iconPath": "icons/wmlog.png"
+    "_frc": {
+      "iconPath": "icons/frc.png"
     },
-    "_util": {
+    "_wmlog": {
       "iconPath": "icons/wmlog.png"
     },
     "_robotcontainer": {
@@ -78,9 +78,6 @@
     "_continuity-open": {
       "iconPath": "icons/cont-open.png"
     },
-    "_subsystem": {
-      "iconPath": "icons/frc.png"
-    },
     "_main": {
       "iconPath": "icons/box-x.png"
     },
@@ -89,6 +86,42 @@
     },
     "_led-open": {
       "iconPath": "icons/led-open.png"
+    },
+    "_wmlib": {
+      "iconPath": "icons/wmlib.png"
+    },
+    "_wmlib-open": {
+      "iconPath": "icons/wmlib-open.png"
+    },
+    "_wmlib_extras": {
+      "iconPath": "icons/wmlib_extras.png"
+    },
+    "_wmlib_extras-open": {
+      "iconPath": "icons/wmlib_extras-open.png"
+    },
+    "_util": {
+      "iconPath": "icons/util.png"
+    },
+    "_util-open": {
+      "iconPath": "icons/util-open.png"
+    },
+    "_wmlib_logs": {
+      "iconPath": "icons/wmlib_logs.png"
+    },
+    "_wmlib_logs-open": {
+      "iconPath": "icons/wmlib_logs-open.png"
+    },
+    "_vendordeps": {
+      "iconPath": "icons/vendors.png"
+    },
+    "_vendordeps-open": {
+      "iconPath": "icons/vendors-open.png"
+    },
+    "_subsystem_file": {
+      "iconPath": "icons/subsystem.png"
+    },
+    "_wpilib": {
+      "iconPath": "icons/wpilib.png"
     }
   
   },
@@ -117,7 +150,18 @@
     "Robot.kt": "_robot",
     "Main.kt": "_main",
     ".gitignore": "_readme",
-    ".gitattributes": "_readme"
+
+    "DriveSubsystem.kt": "_subsystem_file",
+    "SwerveSubsystem.kt": "_subsystem_file",
+    "Subsystem.kt": "_subsystem_file",
+    "GrabberSubsystem.kt": "_subsystem_file",
+    "ClawSubsystem.kt": "_subsystem_file",
+    "ElevatorSubsystem.kt": "_subsystem_file",
+    "IntakeSubsystem.kt": "_subsystem_file",
+    "IndexerSubsystem.kt": "_subsystem_file",
+    "ShooterSubsystem.kt": "_subsystem_file",
+    "VisionSubsystem.kt": "_subsystem_file",
+    "PhotonSubsystem.kt": "_subsystem_file"
   },
   "languageIds": {
     "java": "_java",
@@ -132,16 +176,31 @@
     "pathplanner": "_pathplanner",
     "deploy": "_folder_locked",
     "continuity": "_continuity",
-    "led": "_led"
+    "led": "_led",
+    "wmlib": "_wmlib",
+    "wmlib_extras": "_wmlib_extras",
+    "util": "_util",
+    "wmlib_logs": "_wmlib_logs",
+    "vendordeps": "_vendordeps",
+    "src": "_frc",
+    "main": "_frc",
+    ".wpilib": "_wpilib",
+    ".pathplanner": "_pathplanner"
   },
   "folderNamesExpanded":{
     "swerve": "_swerve-open",
     "pathplanner": "_pathplanner-open",
     "deploy": "_folder_locked-open",
     "continuity": "_continuity-open",
-    "led": "_led-open"
-  },
-  "symbols.files.associations": {
-    "*.Subsystem.*": "_subsystem"
+    "led": "_led-open",
+    "wmlib": "_wmlib-open",
+    "wmlib_extras": "_wmlib_extras-open",
+    "util": "_util-open",
+    "wmlib_logs": "_wmlib_logs-open",
+    "vendordeps": "_vendordeps-open",
+    "src": "_frc",
+    "main": "_frc",
+    ".wpilib": "_wpilib",
+    ".pathplanner": "_pathplanner"
   }
 }
