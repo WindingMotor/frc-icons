@@ -2,11 +2,11 @@
   "name": "frc-icon",
   "displayName": "FRC - Team 2106 Icon Pack",
   "description": "A themed icon pack for FRC WPILIB projects",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.65.0"
   },
-  "publisher": "windingmotor",
+  "publisher": "FRCIconPack",
   "author": {
     "name": "Winding Motor"
   },
