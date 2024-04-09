@@ -146,9 +146,15 @@
   },
   "fileNames": {
     "Constants.kt": "_constants",
-    "Robotcontainer.kt": "_robotcontainer",
+    "RobotContainer.kt": "_robotcontainer",
     "Robot.kt": "_robot",
     "Main.kt": "_main",
+
+    "Constants.java": "_constants",
+    "RobotContainer.java": "_robotcontainer",
+    "Robot.java": "_robot",
+    "Main.java": "_main",
+
     ".gitignore": "_readme",
 
     "DriveSubsystem.kt": "_subsystem_file",
@@ -161,7 +167,31 @@
     "IndexerSubsystem.kt": "_subsystem_file",
     "ShooterSubsystem.kt": "_subsystem_file",
     "VisionSubsystem.kt": "_subsystem_file",
-    "PhotonSubsystem.kt": "_subsystem_file"
+    "PhotonSubsystem.kt": "_subsystem_file",
+
+    "DriveSubsystem.java": "_subsystem_file",
+    "SwerveSubsystem.java": "_subsystem_file",
+    "Subsystem.java": "_subsystem_file",
+    "GrabberSubsystem.java": "_subsystem_file",
+    "ClawSubsystem.java": "_subsystem_file",
+    "ElevatorSubsystem.java": "_subsystem_file",
+    "IntakeSubsystem.java": "_subsystem_file",
+    "IndexerSubsystem.java": "_subsystem_file",
+    "ShooterSubsystem.java": "_subsystem_file",
+    "VisionSubsystem.java": "_subsystem_file",
+    "PhotonSubsystem.java": "_subsystem_file",
+
+    "SUB_Drive.java": "_subsystem_file",
+    "SUB_Swerve.java": "_subsystem_file",
+    "SUB_Grabber.java": "_subsystem_file",
+    "SUB_Claw.java": "_subsystem_file",
+    "SUB_Elevator.java": "_subsystem_file",
+    "SUB_Intake.java": "_subsystem_file",
+    "SUB_Indexer.java": "_subsystem_file",
+    "SUB_Conveyor.java": "_subsystem_file",
+    "SUB_Vision.java": "_subsystem_file",
+    "SUB_Photon.java": "_subsystem_file"
+
   },
   "languageIds": {
     "java": "_java",

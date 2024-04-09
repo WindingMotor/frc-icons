@@ -2,7 +2,7 @@
   "name": "frc-icon",
   "displayName": "FRC - Team 2106 Icon Pack",
   "description": "A themed icon pack for FRC WPILIB projects",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.65.0"
   },
@@ -21,7 +21,8 @@
     "frc",
     "robotics",
     "wpilib",
-    "java"
+    "java",
+    "kotlin"
   ],
   "license": "MIT",
   "contributes": {
@@ -35,6 +36,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/angelenelm/Animal-Crossing-VSCode-Icon-Theme.git"
+    "url": "https://github.com/WindingMotor/frc-icons.git"
   }
 }
